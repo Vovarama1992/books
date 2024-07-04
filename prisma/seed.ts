@@ -9,7 +9,7 @@ async function main() {
     create: {
       username: 'administrator',
       email: 'admin@example.com',
-      password: '$2b$10$ZTlhBu.PHWhlte0LdzxLuOkXgI.39wLYMJIADI1i..g5Bl0Q5cwne',
+      password: '$2a$10$Q/ChcXXpnLYfobG0ekhQFeRcmPvQnTWZkb7aUgemXlxACouJ7PzCm', //ComplexPassword123!
       role: 1,
     },
   });
